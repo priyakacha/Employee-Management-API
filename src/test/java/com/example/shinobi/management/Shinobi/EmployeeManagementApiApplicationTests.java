@@ -1,4 +1,4 @@
-package com.example.Employee.Management.API;
+package com.example.shinobi.management.Shinobi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
